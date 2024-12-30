@@ -1,0 +1,51 @@
+{
+  "experiences": [
+      {
+          "position": "Manager d'équipe et Formateur",
+          "company": "COFIZ Guinée",
+          "date": {
+              "debut_date": "22/07/2024",
+              "end_date": ""
+          },
+          "tasks": {
+              "task_1": "Formateur en Algo, HTML & CSS, JS, Info de base et en langue anglaise",
+              "task_2": "Administrateur du site web de l'entreprise",
+              "task_3": "Administrateur et créateur de contenu de la page facebook",
+              "task_4": "Organisation de l'équipe en place et celle de l'extérieur"
+          },
+          "address": "Conakry Guinée",
+          "id": 1
+      },
+      {
+          "position": "Devéloppeur Web",
+          "company": "Projets Personnel",
+          "date": {
+              "debut_date": "01/01/2022",
+              "end_date": ""
+          },
+          "tasks": {
+              "task_1": "The wild oasis: une application de reservation et de controle d'arrivée etdépart dans un hotel",
+              "task_2": "Applications web ReactJs: Cammander Pizza en ligne, Smart Quiz, Pig Game",
+              "task_3": "API REST en Laravel: Gestion des articles, utilisateurs, et commentaires.",
+              "task_4": "Applications web responsive HTML/CSS/JS: inteface RFI: COVID-19, Portfolio"
+          },
+          "address": "Conakry Guinée",
+          "id": 2
+      },
+      {
+          "position": "Assitant de Bureau et Professeur d'anglais",
+          "company": "The Modern School",
+          "date": {
+              "debut_date": "01/08/2023",
+              "end_date": "01/10/2024"
+          },
+          "tasks": {
+              "task_1": "Administrateur de la base des données de l'école",
+              "task_2": "Maintenance des logiciels de service de l'école",
+              "task_3": "Enseigné et mené des activités en classe pour encourager l'engagement desélèves dans l'apprentissage"
+          },
+          "address": "Accra Ghana",
+          "id": 3
+      }
+  ]
+}

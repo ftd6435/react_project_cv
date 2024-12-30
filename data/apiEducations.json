@@ -1,0 +1,46 @@
+{
+  "educations": [
+    {
+      "program": "e-MBA Health Safety and Environment management",
+      "institute": "BT INSTITUTE",
+      "date": {
+        "debut_date": "17/02/2024",
+        "end_date": "18/05/2024"
+      },
+      "city": "Greater Accra Region, Ghana",
+      "details": [
+        "Evaluation et Gestion des Risques",
+        "Elaboration de politiques de sécurité au travail",
+        "Conformité Réglementaire"
+      ]
+    },
+    {
+      "program": "Langue Anglaise",
+      "institute": "The Modern School",
+      "date": {
+        "debut_date": "01/10/2022",
+        "end_date": "30/11/2023"
+      },
+      "city": "Greater Accra Region, Ghana",
+      "details": [
+        "Lire, écrire et parler courament l'Anglais",
+        "Enseignement de la langue Anglaise"
+      ]
+    },
+    {
+      "program": "Licence Informatique",
+      "institute": "Université de Labé",
+      "date": {
+        "debut_date": "03/10/2019",
+        "end_date": "31/07/2022"
+      },
+      "city": "Labé Prefecture, Guinée",
+      "details": [
+        "L'algorithme et la programmation",
+        "Mise en rapport des modèles théoriques et leurs applications (CSI, UML)",
+        "Développement des applications web",
+        "Système de Gestion de Base de Données Rélationnelle"
+      ]
+    }
+  ]
+}
